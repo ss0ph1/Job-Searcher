@@ -4,7 +4,7 @@
     "slug": "JobSearch",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/kemal.png",
     "scheme": "jobsearch",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
