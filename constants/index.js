@@ -1,5 +1,5 @@
-import images from "./images";
-import icons from "./icons";
-import { COLORS, FONT, SIZES, SHADOWS } from "./theme";
+import search from "./icons/search.png";
+import { COLORS, FONT, SHADOWS, SIZES } from "./theme";
 
-export { images, icons, COLORS, FONT, SIZES, SHADOWS };
+export { COLORS, FONT, search, SHADOWS, SIZES };
+
